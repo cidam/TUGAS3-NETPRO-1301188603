@@ -33,3 +33,7 @@
 #### SOAL NOMOR 5 ####
 
 [![message-Image-1568111201501.jpg](https://i.postimg.cc/m2ZB2gv0/message-Image-1568111201501.jpg)](https://postimg.cc/xqZW6nTR)
+
+#### SOAL NOMOR 6 ####
+
+[![Screen-Shot-2019-09-12-at-18-49-38.png](https://i.postimg.cc/NMq5t0QP/Screen-Shot-2019-09-12-at-18-49-38.png)](https://postimg.cc/sBmV9sQp)
