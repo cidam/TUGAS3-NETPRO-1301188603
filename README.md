@@ -29,6 +29,9 @@
 
 [![Screen-Shot-2019-09-10-at-16-29-48.png](https://i.postimg.cc/G3FmmNHs/Screen-Shot-2019-09-10-at-16-29-48.png)](https://postimg.cc/t7gjrBdX)
 
+#### SOAL NOMOR 4 ####
+
+[![message-Image-1568359604198.jpg](https://i.postimg.cc/1Xs5dh1T/message-Image-1568359604198.jpg)](https://postimg.cc/MM3ScLTb)
 
 #### SOAL NOMOR 5 ####
 
