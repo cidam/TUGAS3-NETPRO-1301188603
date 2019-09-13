@@ -17,26 +17,38 @@
 
 
 
-#### SOAL NOMOR 1 ####
+#### HASIL RUNNUNG NOMOR 1 ####
 
 [![Screen-Shot-2019-09-10-at-15-43-03.png](https://i.postimg.cc/hjn0W6X1/Screen-Shot-2019-09-10-at-15-43-03.png)](https://postimg.cc/8FyvLyB7)
 
-#### SOAL NOMOR 2 ####
+Cara kerja menggunakan FSM :
+
+[![1.png](https://i.postimg.cc/RZHQ7y4f/1.png)](https://postimg.cc/RWvH9P3V)
+
+#### HASIL RUNNING NOMOR 2 ####
 
 [![Screen-Shot-2019-09-10-at-16-14-35.png](https://i.postimg.cc/VkRt0vvn/Screen-Shot-2019-09-10-at-16-14-35.png)](https://postimg.cc/bZZrKzQw)
 
-#### SOAL NOMOR 3 ####
+Cara kerja menggunakan FSM :
+
+[![2.png](https://i.postimg.cc/Dyt1w6Lz/2.png)](https://postimg.cc/nCGXdvd8)
+
+#### HASIL RUNNING NOMOR 3 ####
 
 [![Screen-Shot-2019-09-10-at-16-29-48.png](https://i.postimg.cc/G3FmmNHs/Screen-Shot-2019-09-10-at-16-29-48.png)](https://postimg.cc/t7gjrBdX)
 
-#### SOAL NOMOR 4 ####
+Cara kerja menggunakan FSM :
+
+[![fsm.png](https://i.postimg.cc/NGZxKQwY/fsm.png)](https://postimg.cc/DmdGDkZY)
+
+#### HASIL RUNNING NOMOR 4 ####
 
 [![message-Image-1568359604198.jpg](https://i.postimg.cc/1Xs5dh1T/message-Image-1568359604198.jpg)](https://postimg.cc/MM3ScLTb)
 
-#### SOAL NOMOR 5 ####
+#### HASIL RUNNING NOMOR 5 ####
 
 [![message-Image-1568111201501.jpg](https://i.postimg.cc/m2ZB2gv0/message-Image-1568111201501.jpg)](https://postimg.cc/xqZW6nTR)
 
-#### SOAL NOMOR 6 ####
+#### HASIL RUNNING NOMOR 6 ####
 
 [![Screen-Shot-2019-09-12-at-18-49-38.png](https://i.postimg.cc/NMq5t0QP/Screen-Shot-2019-09-12-at-18-49-38.png)](https://postimg.cc/sBmV9sQp)
